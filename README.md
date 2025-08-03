@@ -25,7 +25,7 @@ Entre no diretório do projeto
 Execulte usando o Gradle
 
 ```bash
-  ./gradlew run
+  ./gradlew run --console=plain
 ```
 
 ou compile e execulte diretamente pelo Java
